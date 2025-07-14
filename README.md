@@ -1,8 +1,8 @@
 # 🌐 Portfolio Pemrograman Web
 
 **Mata Kuliah: Pemrograman Web**  
-**NIM: 202312056**  
-**Nama: M. Ammar Alfarabi**  
+**NIM: 202312045**  
+**Nama: Putri Nabila Az Zahra**  
 **Kampus: Sekolah Tinggi Teknologi Bontang**
 
 ---
