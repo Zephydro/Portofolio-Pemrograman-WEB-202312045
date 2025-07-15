@@ -335,14 +335,6 @@ Untuk kontribusi atau perbaikan:
 4. Push ke branch (`git push origin feature/improvement`)
 5. Buat Pull Request
 
-## 📞 Contact
-
-**M. Ammar Alfarabi**
-
-- Email: alfarabibravo8@gmail.com
-- Kampus: Sekolah Tinggi Teknologi Bontang
-- NIM: 202312056
-- Instagram: @blck_sunday
 
 ## 📄 License
 
@@ -350,4 +342,3 @@ Project ini dibuat untuk keperluan akademik mata kuliah Pemrograman Web di STITE
 
 ---
 
-**© 2025 M. Ammar Alfarabi - STITEK Bontang**
