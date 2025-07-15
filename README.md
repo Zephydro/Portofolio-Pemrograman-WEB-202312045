@@ -218,7 +218,7 @@ Portofolio-Pemrograman-WEB-202312056/
 
 ```bash
 git clone [repository-url]
-cd Portofolio-Pemrograman-WEB-202312056
+cd Portofolio-Pemrograman-WEB-202312045
 ```
 
 #### 2. Setup Web Server
@@ -247,8 +247,8 @@ CREATE TABLE produk (
 -- Insert sample data
 INSERT INTO produk (nama_produk, harga, stok) VALUES
 ('Laptop Gaming', 15000000.00, 5),
-('Mouse Wireless', 250000.00, 20),
-('Keyboard Mechanical', 800000.00, 15);
+('TV 4K', 250000.00, 20),
+('Handphone', 800000.00, 15);
 ```
 
 #### 4. Konfigurasi Database
